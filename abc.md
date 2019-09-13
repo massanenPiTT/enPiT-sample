@@ -1,3 +1,4 @@
+<body style="background-color:#0000ff;">
 # 自己紹介
 ## 名前
 升谷 光貴（ますたに　こうき）
