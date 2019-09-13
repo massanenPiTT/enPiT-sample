@@ -4,4 +4,4 @@
 ## 趣味
 将棋
 
-<img width="200px" alt="パンジャン" src="C:\Users\enPiT-P22\Downloads\war_panjandrum.png">
+<img width="200px" alt="パンジャン" src=".\war_panjandrum.png">
